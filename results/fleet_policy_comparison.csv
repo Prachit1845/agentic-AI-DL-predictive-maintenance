@@ -1,0 +1,5 @@
+policy,total_cost,failures,pm_count,total_downtime,avg_lead_time,wasted_useful_life,Cost Saving vs Baseline (%)
+Run-to-Failure,550000.0,100,0,500,0.0,0.0,75.05
+Fixed Interval,120000.0,0,100,200,0.0,80.4,-14.33
+Naive RUL Threshold,154400.0,8,92,224,8.0,0.5,11.14
+Proposed Agentic Policy,137200.0,4,96,212,8.0,5.7,0.0

@@ -1,0 +1,5 @@
+failure_cost_ratio,Agentic Cost,Agentic Failures,Naive Cost,Naive Failures
+3.0,129200.0,4,149900.0,13
+5.0,137200.0,4,175900.0,13
+7.0,145200.0,4,201900.0,13
+10.0,157200.0,4,240900.0,13
