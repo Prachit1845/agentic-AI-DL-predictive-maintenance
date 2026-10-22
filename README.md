@@ -96,8 +96,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prachit1845/agentic-predictive-maintenance.git
-cd agentic-predictive-maintenance
+git clone https://github.com/Prachit1845/agentic-AI-DL-predictive-maintenance.git
+cd agentic-AI-DL-predictive-maintenance
 ```
 
 ### 2. Set Up Environment
